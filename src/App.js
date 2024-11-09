@@ -21,7 +21,6 @@ import Location from './pages/Location.js';
 import ImgGallery from './pages/ImgGallery.js';
 import Footer from './components/Footer.js';
 import SurveyModal from './components/SurveyModal.js';
-// import Submit from './pages/Submit.js';
 import Comment from './pages/Comment.js';
 import Quiz from './pages/Quiz.js';
 
@@ -36,10 +35,6 @@ function App() {
       setIsModalOpen(false);
     };
 
-    const openModal = () => {
-      setIsModalOpen(true);
-    }
-
   return (
     <div className="App">
       {isModalOpen && <SurveyModal closeModal={closeModal} />}
@@ -48,7 +43,6 @@ function App() {
       <Calendar />
       <ImgGallery />
       <Location />
-      {/* <Submit openModal={openModal}/> */}
       <Quiz/>
       <Contact />
       <Comment />
