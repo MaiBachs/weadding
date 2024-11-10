@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-wedding-card/static/css/main.ae73e979.css",
+    "main.js": "/react-wedding-card/static/js/main.0ed62e89.js",
+    "static/js/787.d00bc756.chunk.js": "/react-wedding-card/static/js/787.d00bc756.chunk.js",
+    "static/media/taeyeon_poem.mp3": "/react-wedding-card/static/media/taeyeon_poem.13d16db4a02836cf5d9d.mp3",
+    "static/media/photo.png": "/react-wedding-card/static/media/photo.d7e57a709cf047e53b8d.png",
+    "static/media/p5.png": "/react-wedding-card/static/media/p5.551a2fb3f9adb8180ea1.png",
+    "static/media/p3.png": "/react-wedding-card/static/media/p3.b868f564edaf5e98ac71.png",
+    "static/media/p4.png": "/react-wedding-card/static/media/p4.3a1c7e9237fb94b67476.png",
+    "static/media/FzMadinahAuthentic.ttf": "/react-wedding-card/static/media/FzMadinahAuthentic.b295116195816151d13d.ttf",
+    "static/media/p2.png": "/react-wedding-card/static/media/p2.31b1e18c6f26de5cd79c.png",
+    "static/media/p1.png": "/react-wedding-card/static/media/p1.0fcdf348c09cbf68941d.png",
+    "static/media/flower.png": "/react-wedding-card/static/media/flower.a5552bcf0b139bec2fbd.png",
+    "static/media/s5.png": "/react-wedding-card/static/media/s5.75f9b506c3c856ea8990.png",
+    "static/media/s3.png": "/react-wedding-card/static/media/s3.9ccd8297da40efd434e3.png",
+    "static/media/s4.png": "/react-wedding-card/static/media/s4.29c69ced9439e0fd9f43.png",
+    "static/media/s2.png": "/react-wedding-card/static/media/s2.16b823bbf809a6add392.png",
+    "static/media/s1.png": "/react-wedding-card/static/media/s1.7ffa9f05ab15c8c8c95e.png",
+    "static/media/google-maps.png": "/react-wedding-card/static/media/google-maps.76262c7c2097bbf3a02f.png",
+    "static/media/placeholder.png": "/react-wedding-card/static/media/placeholder.64cdcb0ef97818161310.png",
+    "index.html": "/react-wedding-card/index.html",
+    "main.ae73e979.css.map": "/react-wedding-card/static/css/main.ae73e979.css.map",
+    "main.0ed62e89.js.map": "/react-wedding-card/static/js/main.0ed62e89.js.map",
+    "787.d00bc756.chunk.js.map": "/react-wedding-card/static/js/787.d00bc756.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae73e979.css",
+    "static/js/main.0ed62e89.js"
+  ]
+}
