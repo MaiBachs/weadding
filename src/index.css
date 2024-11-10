@@ -17,20 +17,20 @@ code {
 
 @font-face {
   font-family: 'GangwonEdu_OTFBoldA';
-  src: url('fonts/FzMadinahAuthentic.ttf')  format('ttf');
+  src: url('fonts/calibri.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'GangwonEdu';
-  src: url('fonts/FzMadinahAuthentic.ttf')  format('ttf');
+  src: url('fonts/calibri.ttf')  format('truetype');
 }
 
-  @font-face {
-    font-family: 'BookkMyungjo-Bd';
-    src: url('fonts/FzMadinahAuthentic.ttf')  format('ttf');
-  }
+@font-face {
+  font-family: 'BookkMyungjo-Bd';
+  src: url('fonts/calibri.ttf')  format('truetype');
+}
 
-  @font-face {
-    font-family: 'BookkMyungjo';
-    src: url('fonts/FzMadinahAuthentic.ttf')  format('ttf');
-  }
+@font-face {
+  font-family: 'BookkMyungjo';
+  src: url('fonts/calibri.ttf')  format('truetype');
+}
