@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weadding/static/css/main.eac49412.css",
-    "main.js": "/weadding/static/js/main.2c40e12f.js",
+    "main.js": "/weadding/static/js/main.b813b6b5.js",
     "static/js/787.d00bc756.chunk.js": "/weadding/static/js/787.d00bc756.chunk.js",
     "static/media/taeyeon_poem.mp3": "/weadding/static/media/taeyeon_poem.13d16db4a02836cf5d9d.mp3",
     "static/media/photo.png": "/weadding/static/media/photo.d7e57a709cf047e53b8d.png",
@@ -21,11 +21,11 @@
     "static/media/placeholder.png": "/weadding/static/media/placeholder.64cdcb0ef97818161310.png",
     "index.html": "/weadding/index.html",
     "main.eac49412.css.map": "/weadding/static/css/main.eac49412.css.map",
-    "main.2c40e12f.js.map": "/weadding/static/js/main.2c40e12f.js.map",
+    "main.b813b6b5.js.map": "/weadding/static/js/main.b813b6b5.js.map",
     "787.d00bc756.chunk.js.map": "/weadding/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eac49412.css",
-    "static/js/main.2c40e12f.js"
+    "static/js/main.b813b6b5.js"
   ]
 }
